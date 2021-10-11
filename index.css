@@ -1,0 +1,37 @@
+body{
+	background:greenyellow ;
+	}
+.container{
+	width: 250px;
+	background-color: white;
+	margin: 120px auto;
+	height: 300px;
+	background-color: black;
+	}
+table{
+	border-color: #f4f4f4;
+	width: 100%;
+	height: 300px;
+	padding: 10px;
+	border: none;
+
+
+}
+td{
+	width: 25%;
+	border: none;
+}
+#inputLabel{
+	text-align: right;
+	font-size: 20px;
+	padding-right: 10px;
+}
+button{
+	width: 100%;
+	border-radius: 20px;
+	border: none;
+	height: 100%;
+}
+button:active{
+	background-color: black;
+}
